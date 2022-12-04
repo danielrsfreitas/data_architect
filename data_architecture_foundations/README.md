@@ -1,1 +1,35 @@
-## Data Architecture Foundations
+# Data Architecture Foundations
+
+## Project a Human Resources Database Design
+
+In this project, I was able to use SQL to design, build and populate a database for the Human Resources Department of Tech ABC Corp, a fictional video game company.
+
+The goal of this project is to be able to digest a memo provided by the Tech ABC Corp Head of HR, with the business context of the company and requisition of a brand new HR database system, and come up with a solution proposal. It is essential to meet all the technical and business requirements of the project by providing two assets:
+
+1. Solution Report
+2. SQL file
+
+## Business Scenario
+
+Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scene with its new AI-powered video game console. As a result, they have gone from a small 10 person operation to 200 employees and 5 locations in under a year. HR is having trouble keeping up with the growth since they are still maintaining employee information in a spreadsheet. While that worked for ten employees, it has become increasingly cumbersome to manage as the company expands.
+
+## Support Material
+
+### 1. Dataset
+
+An Excel workbook consisting of 206 records not normalized. The data lists the names of employees, job title, department, manager's name, hire date, start date, end date, work location and salary.
+
+### 2. IT Department Best Practices
+
+The IT Best Practices and policies for database that should be followed. It contains security constraints, backup policies and mandatory routines that should be followed, storage rules (such as in memory and in disk) and data ingestion caracteristics. 
+
+
+# Solution
+
+1. Data Architecture Foundations
+
+2. Relational database Design
+
+3. Create a Physical Database
+
+4. Above and Beyond (optional)
