@@ -28,3 +28,9 @@ Designing an Enterprise Data Lake System
 
 4. Data Governance
 
+Data Governance at SneakerPark
+
+- Metadata Management
+- Data Catalog
+- Data Quality Management
+- Master Data Management
