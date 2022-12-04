@@ -11,12 +11,20 @@ Project: Design an HR Database
 
 2. Designings Data Systems
 
-Effect of Weather on Restaurant Reviews
+Effect of Weather on Restaurant Reviews using Snowflake
 
 - Design Architecture
 - Staging Data
 - Operational Data Store (ODS)
+- Data Warehouse
 
 3. Big Data Systems
 
+Designing an Enterprise Data Lake System
+
+- Data Lake Solution Architecture Diagram
+- Data Lake Architecture Design
+- Data Lake Executive Presentation
+
 4. Data Governance
+
