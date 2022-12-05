@@ -6,8 +6,8 @@ In this project, I was able to use SQL to design, build and populate a database 
 
 The goal of this project is to be able to digest a memo provided by the Tech ABC Corp Head of HR, with the business context of the company and requisition of a brand new HR database system, and come up with a solution proposal. It is essential to meet all the technical and business requirements of the project by providing two assets:
 
-1. Solution Report
-2. SQL file
+1. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/daniel-freitas-hr-db.pptx_v2.pdf" title="Solution Report">Solution Report</a>
+2. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/SQL/">SQL implementation</a>
 
 ## Business Scenario
 
@@ -28,11 +28,12 @@ The IT Best Practices and policies for database that should be followed. It cont
 
 ## 1. Data Architecture Foundations
 
-In that step I had to answer to technical and business open questions. The questions are related to
+In this step I had to answer to technical and business open questions. The questions are related to
 
+- Current architecture
+- New architecture
 - Data governance
 - Data ownership
-- Current Architecture
 - Data access and security concerns
 - Estimated size and growth of data
 - Database objects
@@ -46,7 +47,7 @@ Solution can be found on `Step 1` of <a href="https://github.com/danielrsfreitas
 
 ## 2. Relational Database Design
 
-Create Entity Relationship Diagrams - Conceptual, Logic and Physical. The Physical ERD must have <a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow's_foot_notation">Crow's foot notation</a> indicating the relationship between entities as well as the design must follow the <a href="https://en.wikipedia.org/wiki/Third_normal_form">3NF (third normal form)</a>.
+Create Entity Relationship Diagrams - Conceptual, Logic and Physical using <a href="https://www.lucidchart.com/pages">Lucidchart</a>. The Physical ERD must have <a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow's_foot_notation">Crow's foot notation</a> indicating the relationship between entities as well as the design must follow the <a href="https://en.wikipedia.org/wiki/Third_normal_form">3NF (third normal form)</a>.
 
 
 - <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/ERD/ConceptualERD.PNG" title="Conceptual ERD">Conceptual ERD</a>
