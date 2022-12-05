@@ -57,10 +57,15 @@ Solution can be found on `Step 2` of <a href="https://github.com/danielrsfreitas
 
 ## 3. Create a Physical Database
 
-- DDL
-- DML
+- <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/SQL/ddl.sql">DDL</a>
+- <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/SQL/dml.sql">DML</a>
+- <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/SQL/crud.sql">CRUD</a>
 
 Solution can be found on `Step 3` of <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/daniel-freitas-hr-db.pptx_v2.pdf" title="Solution Report">Solution Report</a>. 
 
 
 ## 4. Above and Beyond (optional)
+
+- <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/SQL/standout_suggestions.sql">Standout Suggestions</a>
+
+Solution can be found on `Step 4` of <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/daniel-freitas-hr-db.pptx_v2.pdf" title="Solution Report">Solution Report</a>. 
