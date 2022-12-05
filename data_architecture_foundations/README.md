@@ -30,15 +30,15 @@ The IT Best Practices and policies for database that should be followed. It cont
 
 In that step I had to answer to technical and business open questions.
 
-Solution can be found on `Step 1` of PDF 
+Solution can be found on `Step 1` of <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/daniel-freitas-hr-db.pptx_v2.pdf" title="Solution Report">Solution Report</a>. 
 
 ## 2. Relational Database Design
 
-- Conceptual ERD 
-- Logical ERD
-- Physical ERD
+- <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/ERD/ConceptualERD.PNG" title="Conceptual ERD">Conceptual ERD</a>
+- <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/ERD/LogicalERD.PNG" title="Logical ERD">Logical ERD</a>
+- <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/ERD/PhysicalERD.PNG" title="Physical ERD">Physical ERD</a>
 
-Solution can be found on `Step 2` of PDF 
+Solution can be found on `Step 2` of <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/daniel-freitas-hr-db.pptx_v2.pdf" title="Solution Report">Solution Report</a>. 
 
 ## 3. Create a Physical Database
 
