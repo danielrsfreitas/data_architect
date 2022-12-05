@@ -26,10 +26,20 @@ The IT Best Practices and policies for database that should be followed. It cont
 
 # Solution
 
-1. Data Architecture Foundations
+## 1. Data Architecture Foundations
 
-2. Relational database Design
+In that step I had to answer to technical and business open questions.
 
-3. Create a Physical Database
+Solution can be found on `Step 1` of PDF 
 
-4. Above and Beyond (optional)
+## 2. Relational Database Design
+
+- Conceptual ERD 
+- Logical ERD
+- Physical ERD
+
+Solution can be found on `Step 2` of PDF 
+
+## 3. Create a Physical Database
+
+## 4. Above and Beyond (optional)
