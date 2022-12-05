@@ -28,11 +28,26 @@ The IT Best Practices and policies for database that should be followed. It cont
 
 ## 1. Data Architecture Foundations
 
-In that step I had to answer to technical and business open questions.
+In that step I had to answer to technical and business open questions. The questions are related to
+
+- Data governance
+- Data ownership
+- Current Architecture
+- Data access and security concerns
+- Estimated size and growth of data
+- Database objects
+- Data ingestion
+- Scalability
+- Flexibility
+- Storage & retention
+- Backup
 
 Solution can be found on `Step 1` of <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/daniel-freitas-hr-db.pptx_v2.pdf" title="Solution Report">Solution Report</a>. 
 
 ## 2. Relational Database Design
+
+Create Entity Relationship Diagrams - Conceptual, Logic and Physical. The Physical ERD must have <a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow's_foot_notation">Crow's foot notation</a> indicating the relationship between entities as well as the design must follow the <a href="https://en.wikipedia.org/wiki/Third_normal_form">3NF (third normal form)</a>.
+
 
 - <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/ERD/ConceptualERD.PNG" title="Conceptual ERD">Conceptual ERD</a>
 - <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/ERD/LogicalERD.PNG" title="Logical ERD">Logical ERD</a>
@@ -41,5 +56,11 @@ Solution can be found on `Step 1` of <a href="https://github.com/danielrsfreitas
 Solution can be found on `Step 2` of <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/daniel-freitas-hr-db.pptx_v2.pdf" title="Solution Report">Solution Report</a>. 
 
 ## 3. Create a Physical Database
+
+- DDL
+- DML
+
+Solution can be found on `Step 3` of <a href="https://github.com/danielrsfreitas/data_architect/blob/main/data_architecture_foundations/daniel-freitas-hr-db.pptx_v2.pdf" title="Solution Report">Solution Report</a>. 
+
 
 ## 4. Above and Beyond (optional)
