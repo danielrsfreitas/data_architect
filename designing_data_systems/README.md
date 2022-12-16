@@ -2,9 +2,9 @@
 
 ## Design a Data Warehouse for Reporting and OLAP
 
-Effect of Weather on Restaurant Reviews
+Project: Effect of Weather on Restaurant Reviews
 
-In this project, I had to use two sources of data and build a Data System on <a href="https://www.snowflake.com/en/"> Snowflake</a> to be able to infer "How the weather effects Restaurant Reviews".
+In this project, I had to use three sources of data and build a Data System on <a href="https://www.snowflake.com/en/"> Snowflake</a> to be able to infer _"How the weather effects Restaurant Reviews"_.
 
 ## Data Sources
 
