@@ -52,8 +52,8 @@ It is important to mention the usage of flags `auto_compress=true` and `parallel
 
 With the data published to the Snowflake, it is time to move to the STAGE schema.
 
-1. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/designing_data_systems/SQL/json_to_stage.sql">SQL</a>SQL commands to move data from JSON to STAGE.
-2. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/designing_data_systems/Script/csv_to_stage.sql">SQL</a>SQL commands to move data from CSV to STAGE.
+1. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/designing_data_systems/SQL/json_to_stage.sql">SQL</a> commands to move data from JSON to STAGE.
+2. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/designing_data_systems/Script/csv_to_stage.sql">SQL</a> commands to move data from CSV to STAGE.
 
 
 ### Yelp
