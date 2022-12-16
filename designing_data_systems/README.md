@@ -46,14 +46,14 @@ It contains .CSV files with Temperature and Precipitation from Las Vegas, Nevada
 
 ## STAGE
 
-To upload the data to the Snowflake I used the snowsql CLI. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/designins_data_systems/Script/upload.sh">Here</a> is the script used to upload the files before moving to STAGE.
+To upload the data to the Snowflake I used the snowsql CLI. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/designing_data_systems/Script/upload.sh">Here</a> is the script used to upload the files before moving to STAGE.
 
 It is important to mention the usage of flags `auto_compress=true` and `parallel=4` for big files to allow better performance while uploading.
 
 With the data published to the Snowflake, it is time to move to the STAGE schema.
 
-1. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/designins_data_systems/Script/upload.sh">SQL</a>SQL commands to move data from JSON to STAGE.
-2. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/designins_data_systems/Script/upload.sh">SQL</a>SQL commands to move data from CSV to STAGE.
+1. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/designing_data_systems/SQL/json_to_stage.sql">SQL</a>SQL commands to move data from JSON to STAGE.
+2. <a href="https://github.com/danielrsfreitas/data_architect/blob/main/designing_data_systems/Script/csv_to_stage.sql">SQL</a>SQL commands to move data from CSV to STAGE.
 
 
 ### Yelp
@@ -78,7 +78,7 @@ When the data is uploaded to the Snowflake the content is compressed and the ove
 
 ### Stage to ODS
 
-<a href="https://github.com/danielrsfreitas/data_architect/blob/main/designins_data_systems/SQL/staging_to_ods.sql">Queries</a> to move Stage data to ODS applying different sets of filter and creating the relationships between objects.
+<a href="https://github.com/danielrsfreitas/data_architect/blob/main/designing_data_systems/SQL/staging_to_ods.sql">Queries</a> to move Stage data to ODS applying different sets of filter and creating the relationships between objects.
 
 ### Query to integrate ODS data
 
@@ -95,7 +95,7 @@ Sanity query to show that it is possible to integrate different datasets in the 
 
 ### ODS to DW
 
-<a href="https://github.com/danielrsfreitas/data_architect/blob/main/designins_data_systems/SQL/ods_to_dw.sql">Queries</a> to move ODS data to DW applying concepts of OLAP and STAR schema, with fact tables and dimension tables.
+<a href="https://github.com/danielrsfreitas/data_architect/blob/main/designing_data_systems/SQL/ods_to_dw.sql">Queries</a> to move ODS data to DW applying concepts of OLAP and STAR schema, with fact tables and dimension tables.
 
 ### Final Query
 
