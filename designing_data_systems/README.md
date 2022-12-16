@@ -10,7 +10,7 @@ In this project, I had to use three sources of data and build a Data System on <
 
 ### YELP
 
-- <a href="https://www.yelp.com">YELP</a> dataset
+- <a href="https://www.yelp.com/dataset/download">YELP</a> dataset 
 
 It contains .JSON files with different contents, such as:
 
@@ -27,7 +27,11 @@ It contains .JSON files with different contents, such as:
 
 ### Climate Dataset (GHCN-D)
 
-- Climate datasets from the <a href="https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily"> Global Historical Climatology Network-Daily (GHCN-D)</a>
+Climate datasets from the <a href="https://crt-climate-explorer.nemac.org/"> Global Historical Climatology Network-Daily (GHCN-D)</a>
+
+- Precipitation Data - USW00023169-LAS VEGAS MCCARRAN INTL AP-PRECIPITATION-INCH
+
+- Temperature Data - USW00023169-TEMPERATURE-DEGREEF
 
 It contains .CSV files with Temperature and Precipitation from Las Vegas, Nevada.
 
