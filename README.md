@@ -2,14 +2,14 @@
 
 Projects of the Udacity's Data Architect Nanodegree Program done in the second semester of 2022.
 
-## 1. Data Architecture Foundations
+## 1. <a href="https://github.com/danielrsfreitas/data_architect/tree/main/data_architecture_foundations">Data Architecture Foundations</a>
 
 **Project:** Design an HR Database
 
 - Relational Database Design
 - Create a Physical Database using SQL
 
-## 2. Designings Data Systems
+## 2. <a href="https://github.com/danielrsfreitas/data_architect/tree/main/designing_data_systems">Designings Data Systems</a>
 
 **Project:** Effect of Weather on Restaurant Reviews using Snowflake
 
@@ -18,7 +18,7 @@ Projects of the Udacity's Data Architect Nanodegree Program done in the second s
 - Operational Data Store (ODS)
 - Data Warehouse
 
-## 3. Big Data Systems
+## 3. <a href="https://github.com/danielrsfreitas/data_architect/tree/main/big_data_systems">Big Data Systems</a>
 
 **Project:** Designing an Enterprise Data Lake System
 
@@ -26,7 +26,7 @@ Projects of the Udacity's Data Architect Nanodegree Program done in the second s
 - Data Lake Architecture Design
 - Data Lake Executive Presentation
 
-## 4. Data Governance
+## 4. <a href="https://github.com/danielrsfreitas/data_architect/tree/main/data_governance">Data Governance</a>
 
 **Project:** Data Governance at SneakerPark
 
